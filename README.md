@@ -13,13 +13,13 @@
 <!-- Profile views & social badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=abhirai7999&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/abhirai7999">
+  <a href="https://www.linkedin.com/in/abhishek-rai-060421294">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abhirai7999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://trailblazer.salesforce.com/id/abhirai7999">
+  <a href="https://www.salesforce.com/trailblazer/yp98p57fc07452yk0g">
     <img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Trailblazer" />
   </a>
 </p>
@@ -155,7 +155,7 @@ public class AbhishekRai implements SalesforceDeveloper {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhirai7999">
+<a href="https://www.linkedin.com/in/abhishek-rai-060421294">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -163,7 +163,7 @@ public class AbhishekRai implements SalesforceDeveloper {
   <img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://trailblazer.salesforce.com/id/abhirai7999">
+<a href="https://www.salesforce.com/trailblazer/yp98p57fc07452yk0g">
   <img src="https://img.shields.io/badge/Trailblazer-Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 </a>
 
