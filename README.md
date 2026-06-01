@@ -119,14 +119,6 @@ public class AbhishekRai implements SalesforceDeveloper {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhirai7999&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
