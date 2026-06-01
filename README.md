@@ -140,11 +140,10 @@ public class AbhishekRai implements SalesforceDeveloper {
 <div align="center">
 
 ```
-🔵 Salesforce Platform Developer I Certification
-🔵 Salesforce Admin Certification  
-🔵 Lightning Web Components (Advanced)
-🔵 Salesforce DevOps Center
-🔵 Einstein AI & Analytics
+🔵 Salesforce Agentforce Specialisation Certified
+🔵 Salesforce AI Associate certified 
+🔵 Lightning Web Components 
+🔵 Salesforce Apex, Trigger 
 ```
 
 </div>
